@@ -1,0 +1,23 @@
+td.city-name, span.city-name {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+td.delete
+{
+	text-align:right;
+}
+
+span.date {
+	color: #aaa;
+}
+
+div#content
+{
+	margin-top: 60px;
+}
+
+div#weather-data_wrapper,#cities_wrapper
+{
+	margin-top: 20px;
+}
