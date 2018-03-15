@@ -1,6 +1,6 @@
 # Preconditions
 
-1. Get an API key for OpenWeatherMaps and set it in application.properties:
+1. Get an API key for OpenWeatherMap and set it in application.properties:
 
 ```
 openweathermap.api = xxx
